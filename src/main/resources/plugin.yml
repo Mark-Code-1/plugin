@@ -1,0 +1,5 @@
+name: server9
+version: '1.0-SNAPSHOT'
+main: org.mark.server9.Server9
+api-version: '1.21.11'
+description: Главный плагин сервера Server9
